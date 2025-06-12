@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Google AdSense (REQUIRED in HEAD) -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-          crossorigin="anonymous"></script>
-  
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1096796256449553"
+     crossorigin="anonymous"></script>
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -68,15 +68,14 @@ All the essays on money given above are written by the professional content writ
 </p>
     <!-- Google AdSense Ad Unit (Replace your IDs here) -->
     <div class="ads">
-      <ins class="adsbygoogle"
-           style="display:block"
-           data-ad-client="ca-pub-XXXXXXXXXXXXXXX"   <!-- ← Replace with your AdSense ID -->
-           data-ad-slot="YYYYYYYYYYYYYY"             <!-- ← Replace with your ad slot -->
-           data-ad-format="auto"
-           data-full-width-responsive="true"></ins>
-      <script>
-           (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
+    <ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1096796256449553"
+     data-ad-slot="8474875444"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
     </div>
 
     <p>More content can go here: tools, blogs, quote generator, tips, etc.</p>
