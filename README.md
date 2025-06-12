@@ -95,16 +95,17 @@ The demonetisation also helped in promoting digitalisation through online transa
 
 </p>
 
-    <div class="ads">
+  <div class="ads">
     <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
      data-ad-client="ca-pub-1096796256449553"
      data-ad-slot="8474875444"></ins>
+     
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-    </div>
+  </div>
 
 
   <div class="contact">
